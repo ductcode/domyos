@@ -1,4 +1,4 @@
 // Shared version values for the app and widget targets.
 // Updated automatically by .githooks/pre-commit.
-APP_MARKETING_VERSION = 0.9
-APP_BUILD_NUMBER = 20260815
+APP_MARKETING_VERSION = 0.10
+APP_BUILD_NUMBER = 20261019

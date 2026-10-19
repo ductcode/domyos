@@ -1,4 +1,4 @@
-# domyos
+# Indoor Cycling Tracker for EB900
 
 Your indoor ride at a glance. **domyos** connects your exercise bike to your iPhone or iPad over Bluetooth, displays live training metrics, and saves your rides to Apple Health as indoor cycling workouts.
 
