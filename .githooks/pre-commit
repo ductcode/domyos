@@ -1,0 +1,7 @@
+#!/bin/sh
+
+set -eu
+
+repo_root=$(git rev-parse --show-toplevel)
+"$repo_root/scripts/bump-version.sh"
+git add "$repo_root/domyos/Version.xcconfig"
